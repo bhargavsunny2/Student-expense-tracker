@@ -24,6 +24,11 @@ A beginner-friendly Python application for tracking and managing student expense
 
 This project was created to practice Python programming and file handling while building a simple real-world application.
 ```bash
-python expense_tracker.py
 
-![Expense Tracker Demo](expense-tracker-demo.png) https://github.com/bhargavsunny2/Student-expense-tracker/blob/2fb5624eb4d9c3ff986fc890dea9e006df4b74d5/expense-tracker-demo.png.png
+## Project Demo
+
+![Expense Tracker Demo](expense-tracker-demo.png)
+
+https://github.com/bhargavsunny2/Student-expense-tracker/blob/2fb5624eb4d9c3ff986fc890dea9e006df4b74d5/expense-tracker-demo.png.png
+
+python expense_tracker.py
