@@ -23,6 +23,7 @@ A beginner-friendly Python application for tracking and managing student expense
 ## Project Purpose
 
 This project was created to practice Python programming and file handling while building a simple real-world application.
+
 ```bash
 
 ## Project Demo
